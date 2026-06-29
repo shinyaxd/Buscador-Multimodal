@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Buscador-Multimodal
 =======
 # BuscadorMultimodal
